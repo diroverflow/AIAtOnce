@@ -13,7 +13,7 @@ AI大乱斗 是一个高效便捷的工具，旨在同时打开多个不同的 A
 
 - **PK 模式**  
   内置左右分屏功能，同时打开两个 AI 网站页面，实时比较它们的回答表现，让你一目了然哪一个 AI 表现更好。
-  ![Screenshot](screenshot/PKMODE.gif)
+  ![Screenshot](screenshot/PKMODE.png)
 
 - **支持多种 AI 平台**  
   目前支持的 AI 包括：  
