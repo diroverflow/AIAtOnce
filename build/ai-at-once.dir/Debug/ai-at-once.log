@@ -1,0 +1,12 @@
+﻿  Building Custom Rule D:/Research/AIAtOnce/CMakeLists.txt
+  AiObj.cpp
+  App.cpp
+  LanguageStrings.cpp
+  MainWindow.cpp
+D:\Research\AIAtOnce\src\MainWindow.cpp(485,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\Research\AIAtOnce\src\MainWindow.cpp(627,39): warning C4018: “<”: 有符号/无符号不匹配
+D:\Research\AIAtOnce\src\MainWindow.cpp(708,27): warning C4018: “<”: 有符号/无符号不匹配
+  Utils.cpp
+  main.cpp
+  正在生成代码...
+  ai-at-once.vcxproj -> D:\Research\AIAtOnce\build\Debug\ai-at-once.exe
